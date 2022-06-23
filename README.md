@@ -1,2 +1,2 @@
 # ml-in-healthcare
-A Learning Journal on AI for Healthcare
+A Learning Journal on AI in Healthcare
