@@ -7,6 +7,7 @@ Welcome to my repo for the [AI for Medicine Specialization](https://www.coursera
 
 ## Courses
 ### [1. AI for Medical Diagnosis](./ai-for-medical-diagnosis/)
+In the first course, we will learn about building machine learning models for diagnosis - an activity of identifying disease. We will build an algorithm that will look at a chest X-ray and determine whether it contains disease. We'll also build another algorithm that will try to identify locations of tumors by looking at brain MRIs.
 
 
 ## Notes
