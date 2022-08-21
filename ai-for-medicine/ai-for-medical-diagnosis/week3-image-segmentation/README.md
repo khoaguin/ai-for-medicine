@@ -1,0 +1,2 @@
+# Week 3 - Image Segmentation on MRI Images
+In this week, you will practice preparing 3D MRI data, implement an appropriate loss function for image segmentation, and apply a pre-trained U-net model to segment tumor regions in 3D brain MRI images.

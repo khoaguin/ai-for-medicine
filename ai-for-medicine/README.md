@@ -6,14 +6,13 @@ Welcome to my repo for the [AI for Medicine Specialization](https://www.coursera
 ## About this Specialization
 AI has many practical applications in medicine, for example helping doctors diagnose patients more accurately, making predictions about patients’ future health, and recommend better treatments. In this specialization, we will 
 
-## Courses
-### [1. AI for Medical Diagnosis](./ai-for-medical-diagnosis/)
-In the first course, we will learn about building machine learning models for diagnosis - an activity of identifying disease. We will build an algorithm that will look at a chest X-ray and determine whether it contains disease. We'll also build another algorithm that will try to identify locations of tumors by looking at brain MRIs.
-
-
-## Notes
 ### [Link to Specialization Notes (in English)](https://khoaguin.notion.site/AI-for-Medicine-Specialization-Coursera-DeepLearning-AI-23e9be75fc8d420e9289d5482774a3af)
 
 ## Labs and Assignments
+### [Course 1 - AI for Medical Diagnosis](./ai-for-medical-diagnosis/)
+In the first course, we will learn about building machine learning models for diagnosis - an activity of identifying disease. We will build an algorithm that will look at a chest X-ray and determine whether it contains disease. We'll also build another algorithm that will try to identify locations of tumors by looking at brain MRIs.
+#### [Week 1: Chest X-ray Classifier using DenseNet (in Keras)](./ai-for-medical-diagnosis/week1-disease-detection/)
+
+
 
 ## Certification
