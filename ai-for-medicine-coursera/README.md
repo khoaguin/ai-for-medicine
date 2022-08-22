@@ -12,8 +12,8 @@ AI has many practical applications in medicine, for example helping doctors diag
 ### [Course 1 - AI for Medical Diagnosis](./ai-for-medical-diagnosis/)
 In the first course, we will learn about building machine learning models for diagnosis - an activity of identifying diseases. We will build an algorithm that will look at a chest X-ray and determine whether it contains disease. We'll also build another algorithm that will try to identify locations of tumors by looking at brain MRIs.
 #### [Week 1: Chest X-ray Classifier using DenseNet (in Keras)](./ai-for-medical-diagnosis/week1-disease-detection/)
-#### [Week 2:]()
-#### [Week 3:]()
+#### [Week 2: Evaluation of the Chest X-ray Diagnostic Classifier](./ai-for-medical-diagnosis/week2-evaluating-models/)
+#### [Week 3: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI) using a 3D U-Net Model](./ai-for-medical-diagnosis/week3-image-segmentation/)
 
 ### [Course 2 - AI for Medical Prognosis](./ai-for-medical-prognosis/)
 In the second course of the specialization, we
