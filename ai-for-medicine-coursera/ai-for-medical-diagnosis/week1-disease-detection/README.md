@@ -14,7 +14,7 @@ In this lab, we briefly walk through [DenseNet](https://arxiv.org/pdf/1608.06993
 ### [Lab 04: Patient Overlap & Data Leakage](C1_W1_Lab_4_patient_overlap_and_data_leakage.ipynb)
 Patient overlap refers to the problem of having data examples of the same patient in different data splits, e.g. the training split and the test split. Deep learning models can memorize specific features of this patient's data and uses these information when doing predictions on the test split. This leads to the problem of over-optimistic results on the test split, and also data leakage. In this lab, we learn how to tackle this challenge.
 
-## [Assignment: Chest X-Ray Medical Diagnosis with Deep Learning](./C1_W1_Assignment.ipynb)
+## [Assignment: Chest X-Ray Medical Diagnosis with Deep Learning](./assignment)
 ![](./images/xray-header-image.png)
 
 In this week's assignment, we will walk through some of the steps of building and evaluating a chest X-ray classifier using Keras. In particular, we will:
