@@ -6,6 +6,7 @@ In this week, we will practice implementing standard evaluation metrics to see h
 The Receiver Operating Characteristic (ROC) is one of the most useful tools to evaluate medical models. It aims to measure the quality of a *binary estimator*, as it considers how the estimator is able to split between both classes, as we *vary the decision threshold*. In this lab, we will learn about the curve and its applications, as well as understand how changing the threshold of decision in a predictor impacts the outcome.
 
 ## [Assignment: Evaluation of Diagnostic Models](./assignment/)
+![](./images/ROC.png)
 In this assignment, we will be working with the results of the X-ray classification model we developed in the previous assignment. In order to make the data processing a bit more manageable, we will be working with a subset of our training, and validation datasets. We will also use our manually labeled test dataset of 420 X-rays.
 
 As a reminder, our dataset contains X-rays from 14 different conditions diagnosable from an X-ray. We'll evaluate our performance on each of these classes using the classification metrics we learned in lecture.
