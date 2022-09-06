@@ -16,6 +16,6 @@ Training a neural network on a full MRI scan would be too memory intensive to be
 ### [Lab 03: U-Net Model](./labs/C1_W3_Lab_3_unet_model.ipynb)
 In this week's assignment, we'll be using a network architecture called "U-Net". The name of this network architecture comes from its U-like shape. U-Nets are commonly used for image segmentation. In this lab, we will learn more about the U-Net.
 
-<img src="./images/U-Net_depth2.png" alt="drawing" width="500"/>
+![](./images/U-Net_depth2.png)
 
-## Assignment:
+## Assignment: Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
