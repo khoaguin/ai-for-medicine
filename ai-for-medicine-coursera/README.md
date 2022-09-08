@@ -3,6 +3,11 @@
 
 Welcome to my repo for the [AI for Medicine Specialization](https://www.coursera.org/specializations/ai-for-medicine) by [DeepLearning.AI](https://www.deeplearning.ai/). Here you will find my notes, labs and assignments for the specialization. 
 
+## Outline
+* [About this Specialization](#about-this-specialization)
+* [Courses, Labs and Assignments](#courses-labs-and-assignments)
+* [Certification](#certification)
+***
 ## About this Specialization
 AI has many practical applications in medicine, for example helping doctors diagnose patients more accurately, making predictions about patients’ future health, and recommend better treatments. In this specialization, we will 
 
